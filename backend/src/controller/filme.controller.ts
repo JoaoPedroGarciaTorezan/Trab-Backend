@@ -8,6 +8,11 @@ export class FilmeController{
     async create(req: Request,res: Response)
     {
 
+        const dados = req.body;
+
+        await filmeService.create(dados);
+        res.status(200).send();
+
     }
 
     async delete(req: Request, res: Response)
