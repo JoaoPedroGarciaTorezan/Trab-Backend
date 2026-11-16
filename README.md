@@ -2,7 +2,7 @@
 
 Nessa aula criamos um sistema mínimo de backend com CRUD e uma arquitetura simples baseada em Controllers e Services
 
-## Utilizamos as seguinte tecnologias
+## Utilizamos as seguintes tecnologias
 - Express v5
 - Prisma v7
 - SQLite 
