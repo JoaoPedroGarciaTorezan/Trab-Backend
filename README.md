@@ -1,5 +1,10 @@
 # Aula 15 - CRUD - BACKEND - FILMES
 
+## Integrantes
+-Lucas de Oliveira Paulino
+-Gustavo Dominguito Miranda Cruz
+-Joao Pedro Garcia Torezan
+
 Nessa aula criamos um sistema mínimo de backend com CRUD e uma arquitetura simples baseada em Controllers e Services
 
 ## Utilizamos as seguintes tecnologias
